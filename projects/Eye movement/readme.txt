@@ -1,0 +1,1 @@
+In this project, I created eyes that follow the mouse cursor without a blink. That was a good way to bind a code to user actions. 

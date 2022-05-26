@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding-top: 50px;
+}
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.map-overlay {
+  position: absolute;
+  left: 0;
+  padding: 10px;
+}
+.content{
+ 
+  vertical-align: center;
+
+  width: 200px;
+  height: 150px;
+  display: inline;
+}

@@ -1,0 +1,1 @@
+In this project, I write a sample of the Pacman video game we used to like. When you click the "Add PacMan" button, a new Pacman should appear at a random position on the screen. When you click the "Start Game" button, the pacman or pacmen created should start moving at random velocity on the screen.
